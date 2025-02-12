@@ -1,6 +1,4 @@
 streamlit
-gdown
 pandas
-requests
-pickle
+numpy
 scikit-learn
