@@ -15,7 +15,7 @@ with open("encoders.pkl", "rb") as f:
 
 
 def main():
-    st.title("✨ Customer Information Form ✨")
+    st.title("✨ Customer Information  ✨")
     st.markdown("---")
     placeholder = st.empty()
 
