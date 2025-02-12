@@ -3,3 +3,4 @@ gdown
 pandas
 requests
 pickle
+scikit-learn
